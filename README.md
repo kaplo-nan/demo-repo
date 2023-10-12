@@ -1,2 +1,2 @@
-#demo
-trying to learn
+#DEMO
+trying to learn!
